@@ -10,6 +10,8 @@ public class studentsgradingsystem {
 		int studentCount = 0;
 		do {
 			System.out.println("STUDENTS GRADING SYSTEM");
+			System.out.println("Welcome to Buddo Secondary School");
+			System.out.printin("Please select your choice");
 			System.out.println( "1.Register Student");
 			System.out.println("2.Display Students");
 			System.out.println("3.Exit");
